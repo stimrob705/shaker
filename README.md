@@ -8,12 +8,10 @@ requires python 3+ and pyautogui
 ## Install instructions
  1. Install python and add to path
  2. install pyautogui
+ 3. download shake.py
+ 4. run shake.py
  ```
+ cd <download-dir>
  python -m pip install pyautogui
- ```
- 
-
-## Example Invocation
- ```
-python ./shake.py
+ python ./shake.py
  ```
