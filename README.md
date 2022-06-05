@@ -1,11 +1,19 @@
 # shaker
+## Description
+Shakes the mouse and presses shift every 3 minutes to keep the screen awake. 
 
-shaker
-Description
-Shakes the mouse and presses shift every 3 minutes to keep the screen awake.
-
-Requirements
+## Requirements
 requires python 3+ and pyautogui
 
-Example Invocation
+## Install instructions
+ 1. Install python and add to path
+ 2. install pyautogui
+ ```
+ python -m pip install pyautogui
+ ```
+ 
+
+## Example Invocation
+ ```
 python ./shake.py
+ ```
